@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/MarieCordes1/code/mariecordes/TaxiFareModel/mlruns/1/ec4d30a269d24a5ebd16ff95f1145ab4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ec4d30a269d24a5ebd16ff95f1145ab4
+run_uuid: ec4d30a269d24a5ebd16ff95f1145ab4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1636928409438
+status: 1
+tags: []
+user_id: unknown
